@@ -1,6 +1,6 @@
-package com.class1;
+package com.class2;
 
-public class ClassA {
+public class ClassB {
 	
 	public void method1() {
 		
